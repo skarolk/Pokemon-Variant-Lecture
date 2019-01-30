@@ -1,6 +1,6 @@
 body {
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',
-    sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
 }
 
@@ -41,7 +41,7 @@ input:focus {
   width: 230px;
   margin: 10px;
   background: #fecd2f;
-  color: #2d72fc
+  color: #2d72fc;
 }
 
 .pokemon-image {
